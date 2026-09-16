@@ -1,0 +1,49 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="grid-container">
+	<div class="header">
+		<h1>E . O . T . C</h1>
+		<h3>Education Outside the Classroom</h3>
+	<img src="">
+	</div>
+	<nav>
+		<ul>
+			<li><a href="indexV3.html">Home</a></li>
+			<li><a href="page2.html">Community Service</a></li>
+			<li><a href="page3.html">Activities</a></li>
+			<li><a href="page4.html">Contact</a>
+		</ul>
+	</nav>
+	<div class="main">
+			
+
+		<h1>Contact</h1>
+	<p>	
+Tawa College
+</p>
+		
+		<p>Ph: 232 8184</p>
+		<p>Email: secretary@tawacollege.school.nz</p>
+		<p>EOTC Coordinator (email for more in-depth information on the day)</p>
+		<p>Mrs Ria Edmonds: redmonds@tawacollege.school.nz</p>
+
+	</div>
+	<div class="footer">Copyright Blake Rees, all rights reserved Tawa College 2026</div>
+</div>
+
+</body>
+</html>
+
+<p> </p>
+
+<button onclick="topFunction() " id="myBtn" title="Go to top">Top</button>
+
+
+<!-- Import the back to top button JavaScript goes here -->
+<!-- The source code link to JavaScript needs to go end of body tag to allow To -->
+<script type="text/javascript" src="scr.js"></script>
+</html>
