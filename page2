@@ -1,0 +1,50 @@
+<html>
+<head>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="grid-container">
+	<div class="header">
+		<h1>E . O . T . C</h1>
+		<h3>Education Outside the Classroom</h3>
+	<img src="">
+	</div>
+	<nav>
+		<ul>
+			<li><a href="indexV3.html">Home</a></li>
+			<li><a href="page2.html">Community Service</a></li>
+			<li><a href="page3.html">Activities</a></li>
+			<li><a href="page4.html">Contact</a>
+		</ul>
+	</nav>
+	
+	<div class="main">
+			
+
+		<h1>Community Service</h1>
+	<p>
+Students will complete one day of community service assisting local residents and businesses. This will usually occur within walking distance of Tawa College for all Year 10 students. This day has the key focus of citizenship and has been a great success in previous years.
+</p>
+	<p>Meeting time and location: The school gym at 9.15am</p>
+	<p>What to bring: A day pack with your lunch, water bottle, sun hat, a warm jumper and rain jacket if the weather forecast is bad. It will still go ahead unless there is torrential rain. Please wear appropriate old clothes for potential gardening/painting jobs and closed toed shoes. Bring any medication required.
+</p>
+	<p>Students will spend a day completing community service in a small group with friends in the Tawa basin, supervised by a staff member. This is a highly valuable experience where students have the chance to interact with the elderly helping them with gardening, painting etc or assisting local food banks, kindergartens, hospice shops and charities for the day. Students will usually walk to their allocated job with a staff member, however a very small number of jobs will be on the fringes of the Tawa Basin and therefore they may be driven by a staff member in their groups.
+</p>
+
+	</div>
+	<div class="footer">Copyright Blake Rees, all rights reserved Tawa College 2026</div>
+</div>
+
+</body>
+</html>
+
+<p> </p>
+
+<button onclick="topFunction() " id="myBtn" title="Go to top">Top</button>
+
+
+<!-- Import the back to top button JavaScript goes here -->
+<!-- The source code link to JavaScript needs to go end of body tag to allow To -->
+<script type="text/javascript" src="scr.js"></script>
+</html>
